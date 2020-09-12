@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trippleatt Assignment</string>
+    <string name="title">Trippleatt.com</string>
+    <string name="entername">USERNAME</string>
+    <string name="fathername">FATHER\'S NAME</string>
+    <string name="enternumber">MOBILE NUMBER</string>
+    <string name="email">EMAIL ID</string>
+    <string name="password">PASSWORD</string>
+    <string name="register">Register</string>
+    <string name="homepage">Wellcome in Trippleatt.com Home Page</string>
+    <string name="lonin">Log In</string>
+    <string name="loginclick">I hava allready a account..........click here</string>
+    <string name="registerclick">New User</string>
+</resources>
